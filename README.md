@@ -20,7 +20,7 @@ A web application for creating and managing quizzes with questions. The app feat
 ## Prerequisites
 
 - Node.js (v16 or higher)
-- npm or Yarn
+- npm
 - Supabase account and Database URLS
 - Git
 
