@@ -5,8 +5,8 @@ The frontend of the Quiz App, built with Next.js and TypeScript, provides a resp
 ## Prerequisites
 
 - Node.js (v16 or higher)
-- npm or Yarn
-- Backend running on `http://localhost:3000/api` (see `../backend/README.md`)
+- npm
+- Backend running on `http://localhost:3001/api` (see `../backend/README.md`)
 
 ## Setup
 
@@ -24,7 +24,7 @@ The frontend of the Quiz App, built with Next.js and TypeScript, provides a resp
 
 - Create a .env.local file in the frontend directory.
 - Add the following configuration (adjust the URL based on your backend setup):
-  NEXT_PUBLIC_API_BASE_URL=backend-url
+  `NEXT_PUBLIC_API_BASE_URL=backend-url`
 - Ensure the backend is configured to run on port 3000 (default in backend/.env or in nestjs). Adjust the URL if your backend uses a different port.
 
 4. Start the development server:
@@ -32,3 +32,10 @@ The frontend of the Quiz App, built with Next.js and TypeScript, provides a resp
    # Start the frontend in development mode
    $ npm run dev
    ```
+5. Open http://localhost:3000 in your browser.
+
+## Scripts
+     ```bash
+- $ npm run dev: Start the development server (port 3000 by default).
+- $ npm run build: Build the app for production.
+- $ npm run start: Run the production build.
