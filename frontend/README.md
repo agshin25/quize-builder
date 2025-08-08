@@ -26,7 +26,7 @@ The frontend of the Quiz App, built with Next.js and TypeScript, provides a resp
 - Create a .env.local file in the frontend directory.
 - Add the following configuration (adjust the URL based on your backend setup):
   `NEXT_PUBLIC_API_BASE_URL=backend-url`
-- Ensure the backend is configured to run on port 3000 (default in backend/.env or in nestjs). Adjust the URL if your backend uses a different port.
+- Ensure the backend is configured to run on port 3001 (default in backend/.env or in nestjs). Adjust the URL if your backend uses a different port.
 
 4. Start the development server:
    ```bash
