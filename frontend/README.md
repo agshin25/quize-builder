@@ -40,6 +40,9 @@ The frontend of the Quiz App, built with Next.js and TypeScript, provides a resp
 # Start the development server (port 3000 by default)
 $ npm run dev
 
+# Start the development server with a custom port (e.g., 3002)
+$ npm run dev -- --port 3002
+
 # Build the app for production
 $ npm run build
 
