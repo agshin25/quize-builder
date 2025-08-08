@@ -34,16 +34,16 @@ A web application for creating and managing quizzes with questions. The app feat
    ```
 2. Install dependencies for both frontend and backend:
 
+```bash
 # Navigate to frontend and install dependencies
 
-```bash
 $ cd frontend
 $ npm install
 ```
 
+```bash
 # Navigate to backend and install dependencies
 
-```bash
 $ cd ../backend
 $ npm install
 ```
