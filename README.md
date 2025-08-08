@@ -35,11 +35,20 @@ A web application for creating and managing quizzes with questions. The app feat
 2. Install dependencies for both frontend and backend:
 
 # Navigate to frontend and install dependencies
+
 ```bash
 $ cd frontend
 $ npm install
+```
 
 # Navigate to backend and install dependencies
 
+```bash
 $ cd ../backend
 $ npm install
+```
+
+3. Follow the detailed setup instructions in:
+
+frontend/README.md for frontend configuration and running the app.
+backend/README.md for backend configuration, database setup, and running the app.
