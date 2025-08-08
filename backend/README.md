@@ -65,18 +65,16 @@ To set up the backend locally, follow these steps:
 
 ## Scripts
 
-    ```bash
-    # Start the development server (port configured in .env, default 3001)
-    $ npm run start:dev
+```bash
+# Start the development server (port configured in .env, default 3001)
+$ npm run start:dev
 
-    # Build the app for production
+# Build the app for production
+$ npm run build
 
-    $ npm run build
-
-    # Run the production build
-
-    $ npm run start
-    ```
+# Run the production build
+$ npm run start
+```
 
 ## Notes
 
