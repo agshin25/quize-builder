@@ -52,3 +52,9 @@ A web application for creating and managing quizzes with questions. The app feat
 
 - frontend/README.md for frontend configuration and running the app.
 - backend/README.md for backend configuration, database setup, and running the app.
+
+## Running the App
+After completing the setup in the frontend and backend directories (see their respective READMEs), access the app at:
+
+- Frontend: http://localhost:4000
+- Backend API: http://localhost:3000/api
