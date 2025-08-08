@@ -56,5 +56,5 @@ A web application for creating and managing quizzes with questions. The app feat
 ## Running the App
 After completing the setup in the frontend and backend directories (see their respective READMEs), access the app at:
 
-- Frontend: http://localhost:4000
-- Backend API: http://localhost:3000/api
+- Frontend: http://localhost:3000
+- Backend API: http://localhost:3001/api
