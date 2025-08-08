@@ -20,6 +20,7 @@ The frontend of the Quiz App, built with Next.js and TypeScript, provides a resp
    # Install frontend dependencies
    $ npm install
    ```
+> **Note:** If you followed the general README, this step may already be complete.
 3. Configure environment variables:
 
 - Create a .env.local file in the frontend directory.
